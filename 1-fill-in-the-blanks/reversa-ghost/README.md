@@ -11,7 +11,7 @@ As a user I can write words and have them appear magically in reverse.  Still no
 
 | class name | description | role |
 | --- | --- | --- |
-| | | |
+|editor | defining the size | height and width are defined |
 
 ## Listeners
 
